@@ -62,7 +62,7 @@ Brakujące wartości w kolumnie `sleep_disorder` potraktowałam jako brak zgłos
 - Wyższy poziom stresu był powiązany z niższą jakością snu.
 - Długość snu była silnie dodatnio powiązana z jakością snu.
 - Model regresji logistycznej osiągnął najlepszy wynik klasyfikacji.
-- Accuracy najlepszego modelu wyniosło około 90%.
+- Dokładność najlepszego modelu wyniosło około 90%.
 
 ## Wizualizacje
 
@@ -132,5 +132,5 @@ W projekcie zbudowałam dwa proste modele klasyfikacyjne:
 Celem modelu było przewidzenie, czy dana osoba ma zgłoszone zaburzenie snu.
 
 Najlepszy wynik uzyskała regresja logistyczna.  
-Model osiągnął accuracy na poziomie około 90%.
+Model osiągnął dokładność na poziomie około 90%.
 
