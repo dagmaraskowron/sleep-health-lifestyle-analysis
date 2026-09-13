@@ -6,7 +6,7 @@ Celem projektu jest analiza danych dotyczących snu, stylu życia i zdrowia oraz
 
 W projekcie sprawdzam, jak takie cechy jak czas snu, jakość snu, poziom stresu, aktywność fizyczna, ciśnienie krwi, tętno, BMI i liczba kroków dziennie wiążą się z zaburzeniami snu.
 
-Zmienną przewidywaną jest `Sleep_Disorder`, czyli informacja o tym, czy dana osoba ma zaburzenie snu.
+Zmienną przewidywaną jest `Sleep_Disorder`, czyli informacja o tym, czy dana osoba ma zaburzenie snu czy nie.
 
 ## Zbiór danych
 
