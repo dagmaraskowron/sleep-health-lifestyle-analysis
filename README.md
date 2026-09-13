@@ -2,7 +2,7 @@
 
 ## Opis projektu
 
-Celem projektu jest analiza danych dotyczących snu, stylu życia i zdrowia oraz zbudowanie modelu przewidującego występowanie zaburzeń snu.
+Celem projektu jest analiza danych dotyczących snu, stylu życia i zdrowia oraz zbudowanie modelu przewidującego występowanie zaburzeń snu. Analiza została wykonana z wykorzystaniem bibliotek pandas, matplotlib i scikit-learn.
 
 W projekcie sprawdzam, jak takie cechy jak czas snu, jakość snu, poziom stresu, aktywność fizyczna, ciśnienie krwi, tętno, BMI i liczba kroków dziennie wiążą się z zaburzeniami snu.
 
